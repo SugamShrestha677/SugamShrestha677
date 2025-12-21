@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br /> My name is Sugam Shrestha.
 
-Frontend Developer (React & Modern Web) Open to Internships
+Frontend Developer (React & Modern Web) Fresher
 -----------------------------------------------------------
 
 I'm a frontend developer passionate about building responsive and user-friendly web applications. I specialize in React, JavaScript, and modern UI frameworks like Tailwind CSS. Currently, I'm expanding my portfolio with scalable projects and actively seeking internship opportunities to gain hands-on experience and contribute to real-world applications.
@@ -8,7 +8,7 @@ I'm a frontend developer passionate about building responsive and user-friendly 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [My Portfolio](http://shresthasugam.com.np/)
 * ✉️  You can contact me at [xresthasugam@gmail.com](mailto:xresthasugam@gmail.com)
-* 🧠  I'm currently learning React Js with Typescript
+* 🧠  I'm still learning React Js and Typescript.
 * 👥  I'm looking to collaborate on Frontend projects, open-source contributions, and creative web applications.
 * 💬  Ask me about love experimenting with fonts and creative branding for web projects.
 
