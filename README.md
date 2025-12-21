@@ -3,13 +3,7 @@
 Frontend Developer (React & Modern Web) Open to Internships
 -----------------------------------------------------------
 
-I'm a frontend developer passionate about building responsive and user-friendly web applications.
-
-I specialize in React, JavaScript, and modern UI frameworks like Tailwind CSS.
-
-Currently, I'm expanding my portfolio with scalable projects and actively seeking internship opportunities
-
-to gain hands-on experience and contribute to real-world applications.
+I'm a frontend developer passionate about building responsive and user-friendly web applications. I specialize in React, JavaScript, and modern UI frameworks like Tailwind CSS. Currently, I'm expanding my portfolio with scalable projects and actively seeking internship opportunities to gain hands-on experience and contribute to real-world applications.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [My Portfolio](http://shresthasugam.com.np/)
