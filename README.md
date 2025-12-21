@@ -45,4 +45,8 @@ Stats
 
 Top Languages Card
 -----------------------------------------------------------
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthasugam&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugamShrestha677&layout=compact&theme=radical)
+
+Streak Stats
+-----------------------------------------------------------
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SugamShrestha677&theme=radical)
