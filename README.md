@@ -36,7 +36,7 @@ Top Languages Card
 
 Streak Stats
 -----------------------------------------------------------
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SugamShrestha677&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical)
 
 Top Repositories
 -----------------------------------------------------------
