@@ -28,15 +28,15 @@ Socials
 
 Stats
 -----------------------------------------------------------
-![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugamShrestha677&show_icons=true&theme=radical)
+![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugamShrestha677&show_icons=true&theme=radical&cache_seconds=1800)
 
 Top Languages Card
 -----------------------------------------------------------
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugamShrestha677&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugamShrestha677&layout=compact&theme=radical&cache_seconds=1800)
 
 Streak Stats
 -----------------------------------------------------------
-![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical&cache_seconds=1800)
 
 Top Repositories
 -----------------------------------------------------------
