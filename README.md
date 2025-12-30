@@ -26,9 +26,6 @@ Socials
 
 
 
-Stats
------------------------------------------------------------
-![Sugam's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SugamShrestha677&show_icons=true&theme=radical&format=png)
 
 Top Languages Card
 -----------------------------------------------------------
@@ -43,11 +40,11 @@ Streak Stats
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SugamShrestha677&theme=github-dark)
 
----
 
-## 📈 GitHub Summary
+## Top Repositories
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SugamShrestha677&theme=github_dark)
+![Repo Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SugamShrestha677&theme=github_dark)
+
 
 
 Top Repositories
