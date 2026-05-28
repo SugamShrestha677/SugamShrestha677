@@ -1,16 +1,19 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br /> My name is Sugam Shrestha.
 
-Frontend Developer (React & Modern Web) Fresher
------------------------------------------------------------
+## FullStack Developer (React + Modern Web)
 
-I'm a frontend developer passionate about building responsive and user-friendly web applications. I specialize in React, JavaScript, and modern UI frameworks like Tailwind CSS. Currently, I'm expanding my portfolio with scalable projects and actively seeking internship opportunities to gain hands-on experience and contribute to real-world applications.
+I'm a developer passionate about building complete web experiences — from responsive frontends to scalable backend services. I started with React and modern UI frameworks, and recently leveled up to fullstack through a hands-on backend engineering internship where I learned Docker, basic AWS, Redis, and Celery from scratch.
 
-* 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [My Portfolio](http://shresthasugam.com.np/)
-* ✉️  You can contact me at [xresthasugam@gmail.com](mailto:xresthasugam@gmail.com)
-* 🧠  I'm still learning React Js and Typescript.
-* 👥  I'm looking to collaborate on Frontend projects, open-source contributions, and creative web applications.
-* 💬  Ask me about love experimenting with fonts and creative branding for web projects.
+Currently, I'm expanding my portfolio with production-ready fullstack projects and actively seeking opportunities to contribute across the stack.
+
+- 🌍 Based in Nepal  
+- 🖥️ Portfolio: [shresthasugam.com.np](http://shresthasugam.com.np/)  
+- ✉️ Contact: [xresthasugam@gmail.com](mailto:xresthasugam@gmail.com)  
+- 🧠 Currently deepening: React, TypeScript, and backend architecture  
+- 🛠️ Tech stack includes: React, Node.js, Python, Docker, AWS (basics), Redis, Celery  
+- 👥 Looking to collaborate on fullstack apps, open-source projects, and creative web platforms  
+- 💬 Ask me about: font experiments, UI details, and turning frontend passion into fullstack reality  
+- 🏢 Internship: Backend Engineering Intern @ Depth Nepal (Jan–May 2026) — Docker, AWS, Redis, Celery
 
 
 Skills
@@ -23,23 +26,27 @@ Skills
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
 <br/>
 
-<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
 
