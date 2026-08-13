@@ -60,7 +60,11 @@ Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical)
 
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guests_2063&layout=compact&theme=radical&range=last_7_days)
+## 📊 WakaTime Stats
+
+<img src="https://wakatime.com/share/@guests_2063/854f87bb-dcd5-42de-8f96-18d25694ab3e.svg" alt="WakaTime Stats" width="600" />
+
+<img src="https://wakatime.com/share/@guests_2063/0f101dad-266c-449c-a977-2742ed437de4.svg" alt="WakaTime Stats" width="600" />
 
 
 ## 📊 GitHub Activity
