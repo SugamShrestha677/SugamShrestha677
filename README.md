@@ -60,31 +60,30 @@ Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical)
 
 
-## 📊 WakaTime Stats
-
-<img src="https://wakatime.com/share/@guests_2063/854f87bb-dcd5-42de-8f96-18d25694ab3e.svg" alt="WakaTime Stats" width="600" />
-
-<img src="https://wakatime.com/share/@guests_2063/0f101dad-266c-449c-a977-2742ed437de4.svg" alt="WakaTime Stats" width="600" />
 
 
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SugamShrestha677&theme=github-dark)
 
-Top Repositories
------------------------------------------------------------
+## 📊 WakaTime Stats
 
-<div width="100%" align="center"><a href="https://github.com/SugamShrestha677/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamShrestha677&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SugamShrestha677/Estate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamShrestha677&repo=Estate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
-<br /><br />
+<img src="https://wakatime.com/share/@guests_2063/854f87bb-dcd5-42de-8f96-18d25694ab3e.svg" alt="WakaTime Stats" width="600" />
+
+<img src="https://wakatime.com/share/@guests_2063/0f101dad-266c-449c-a977-2742ed437de4.svg" alt="WakaTime Stats" width="600" />
+
+<img src="https://wakatime.com/share/@guests_2063/e7ccb1d6-fc64-4a99-8a10-d3a7b48c3758.svg" alt="WakaTime Stats" width="600" />
 
 
-<br />
+## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/SugamShrestha677/Grocify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SugamShrestha677&repo=Grocify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[![LMS Frontend](https://img.shields.io/badge/LMS_Frontend-000?style=for-the-badge&logo=github)](https://github.com/SugamShrestha677/LMS_frontend)
+[![LMS Backend](https://img.shields.io/badge/LMS_Backend-000?style=for-the-badge&logo=github)](https://github.com/SugamShrestha677/LMS-Backend)
 
-<br /><br /><br /><br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://github.com/SugamShrestha677/portfolio)
+[![Estate](https://img.shields.io/badge/Estate-000?style=for-the-badge&logo=github)](https://github.com/SugamShrestha677/Estate)
+[![Grocify](https://img.shields.io/badge/Grocify-000?style=for-the-badge&logo=github)](https://github.com/SugamShrestha677/Grocify)
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SugamShrestha677&label=Profile%20views&color=0e75b6&style=flat"/>
