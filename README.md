@@ -60,6 +60,9 @@ Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SugamShrestha677&theme=radical)
 
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guests_2063&layout=compact&theme=radical&range=last_7_days)
+
+
 ## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SugamShrestha677&theme=github-dark)
